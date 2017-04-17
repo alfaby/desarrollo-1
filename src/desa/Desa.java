@@ -20,7 +20,7 @@ public class Desa {
         System.out.println("modificcion 1");
         System.out.println("modificcion 1");
     }
-    public static void dos(){
+    public static void tres(){
         System.out.println("tres");
     }
     
