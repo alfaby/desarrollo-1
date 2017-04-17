@@ -20,5 +20,8 @@ public class Desa {
         System.out.println("modificcion 1");
         System.out.println("modificcion 1");
     }
+    public static void dos(){
+        System.out.println("tres");
+    }
     
 }
