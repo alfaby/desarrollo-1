@@ -23,5 +23,8 @@ public class Desa {
     public static void tres(){
         System.out.println("tres");
     }
+    public static void cuatro(){
+        System.out.println("cuatro");
+    }
     
 }
