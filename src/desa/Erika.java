@@ -10,5 +10,7 @@ package desa;
  * @author PC
  */
 public class Erika {
-    
+    public static void main(String[]args){
+        System.out.println(" ");
+    }
 }
