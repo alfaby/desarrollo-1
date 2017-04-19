@@ -9,6 +9,8 @@ package desa;
  *
  * @author tu cadena tegnologic
  */
-public class BarrionuevoAlexandra {
-    
+public class BarrionuevoAlexa {
+ public static void main(String[]args){
+        System.out.println("Hola Hola :)");    
+}
 }
